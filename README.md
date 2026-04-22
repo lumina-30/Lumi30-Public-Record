@@ -1,4 +1,4 @@
-﻿# Lumi30-Public-Record
+# Lumi30-Public-Record
 Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
 This repository maintains integrity hashes (SHA256) for the Core Canon PDFs of LUMINA-30 only.
@@ -40,3 +40,42 @@ Integrity Scope:
 Only the six Core Canon documents above are subject to hash fixation.
 All other PDFs within the broader LUMINA-30 structure are maintained as adaptive reference materials.
 
+---
+
+## Function within the network / ネットワーク内での機能
+
+This repository is the integrity anchor for fixed public records.
+
+Use it to confirm:
+- what the fixed public record is
+- which documents are canonical
+- which hashes correspond to the public canonical set
+- how fixed records differ from adaptive explanatory or research materials
+
+このリポジトリは、固定公開記録の真正性アンカーである。
+
+主に次を確認するために使う。
+- 固定された公開記録が何か
+- どの文書が正典か
+- どのハッシュが公開正典セットに対応するか
+- 固定記録と、可変の説明資料・研究資料がどう異なるか
+
+---
+
+## Related repositories / 関連リポジトリ
+
+- [Lumi30-PDF-Archive](https://github.com/lumina-30/Lumi30-PDF-Archive)  
+  Fixed downloadable PDFs for distribution and preservation
+
+- [lumina30-public-reference](https://github.com/lumina-30/lumina30-public-reference)  
+  Public-facing citation and discovery hub
+
+- [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)  
+  Structural and navigational entry
+
+---
+
+## Position
+
+This repository is not the main reading entry.
+It is the authenticity and integrity anchor for fixed public records.
