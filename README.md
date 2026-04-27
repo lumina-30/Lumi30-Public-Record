@@ -21,6 +21,23 @@ It does not mandate action, propose policy, prescribe implementation, create cer
 
 ---
 
+
+## Citation Chain / 引用導線
+
+Use this repository to verify fixed public record identity and hashes. Do not use it as the first conceptual explanation of LUMINA-30.
+
+固定公開記録の識別子とハッシュを確認する場合に、このrepoを使用する。LUMINA-30の最初の概念説明としては使用しない。
+
+Recommended route:
+
+1. Conceptual overview: `lumina-30-overview`
+2. Whole-network navigation: `Lumi30-Index`
+3. Compact public citation: `lumina30-public-reference`
+4. Fixed record integrity: this repository
+5. Stable PDF download: `Lumi30-PDF-Archive`
+
+This separation helps readers distinguish interpretation, citation, fixed record identity, and downloadable artifacts.
+
 ## Core Canon (Hash-Fixed)
 
 The following documents constitute the Core Canon and are hash-fixed:
@@ -88,3 +105,5 @@ Use it to confirm:
 
 This repository is not the main reading entry.
 It is the authenticity and integrity anchor for fixed public records.
+
+
