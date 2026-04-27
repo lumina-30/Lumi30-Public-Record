@@ -10,6 +10,15 @@ Non-canonical documents — including operational entry sheets, review reference
 This repository does not introduce doctrine, policy, or obligation.
 It functions solely as an integrity verification layer for the Core Canon.
 
+## Boundary Reference Note / 境界参照注記
+
+This repository is a non-binding integrity and boundary-reference layer.  
+It does not mandate action, propose policy, prescribe implementation, create certification status, or create compliance obligations.
+
+本リポジトリは、非拘束の真正性確認・境界参照レイヤーである。  
+行動を命令せず、政策を提案せず、実装を規定せず、認証状態や適合義務を作らない。
+
+
 ---
 
 ## Core Canon (Hash-Fixed)
