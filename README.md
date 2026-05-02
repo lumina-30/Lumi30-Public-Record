@@ -1,5 +1,5 @@
 # Lumi30-Public-Record
-Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
+Primary entry point: [Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)
 
 This repository maintains integrity hashes (SHA256) for the Core Canon PDFs of LUMINA-30 only.
 
@@ -10,7 +10,7 @@ Non-canonical documents — including operational entry sheets, review reference
 This repository does not introduce doctrine, policy, or obligation.
 It functions solely as an integrity verification layer for the Core Canon.
 
-## Boundary Reference Note / 境界参照注記
+## Boundary Reference Note ｜ 境界参照注記
 
 This repository is a non-binding integrity and boundary-reference layer.  
 It does not mandate action, propose policy, prescribe implementation, create certification status, or create compliance obligations.
@@ -22,7 +22,7 @@ It does not mandate action, propose policy, prescribe implementation, create cer
 ---
 
 
-## Citation Chain / 引用導線
+## Citation Chain ｜ 引用導線
 
 Use this repository to verify fixed public record identity and hashes. Do not use it as the first conceptual explanation of LUMINA-30.
 
@@ -68,7 +68,7 @@ All other PDFs within the broader LUMINA-30 structure are maintained as adaptive
 
 ---
 
-## Function within the network / ネットワーク内での機能
+## Function within the network ｜ ネットワーク内での機能
 
 This repository is the integrity anchor for fixed public records.
 
@@ -88,22 +88,23 @@ Use it to confirm:
 
 ---
 
-## Related repositories / 関連リポジトリ
+## Related repositories ｜ 関連リポジトリ
 
-- [Lumi30-PDF-Archive](https://github.com/lumina-30/Lumi30-PDF-Archive)  
-  Fixed downloadable PDFs for distribution and preservation
+- [PDF Archive ｜ PDF固定配布](https://github.com/lumina-30/Lumi30-PDF-Archive)  
+  Fixed downloadable PDFs for distribution and preservation.  
+  配布と保存のための固定PDFアーカイブ。
 
-- [lumina30-public-reference](https://github.com/lumina-30/lumina30-public-reference)  
-  Public-facing citation and discovery hub
+- [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference)  
+  Public-facing citation and discovery hub.  
+  公開向けの引用・発見性ハブ。
 
-- [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)  
-  Structural and navigational entry
+- [Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)  
+  Structural and navigational entry.  
+  repo群全体の構造・導線入口。
 
 ---
 
-## Position
+## Position ｜ 位置づけ
 
 This repository is not the main reading entry.
 It is the authenticity and integrity anchor for fixed public records.
-
-
