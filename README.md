@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Lumi30-Public-Record
 Primary entry point: [Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)
 
